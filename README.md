@@ -12,8 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balchaki&layout=compact&theme=radical" alt="Linguagens mais usadas pelo Balchaki" />
 </p>
 
-_**Nota:** As linguagens mostradas são utilizadas em projetos pessoais e abertos. No ambiente profissional, atuo principalmente com as seguintes tecnologias:_
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
