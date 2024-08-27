@@ -22,6 +22,9 @@
 
 ## 📌 **Projetos em Destaque**
 <p align="center">
+    <a href="https://github.com/Balchaki/meetspace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=meetspace&theme=radical" alt="MeetSpace" />
+  </a><br>
   <a href="https://github.com/Balchaki/MyPub-Landpage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=MyPub-Landpage&theme=radical" alt="MyPub Landpage" />
   </a>
