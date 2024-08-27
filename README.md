@@ -9,7 +9,7 @@
 
 ## 🚀 **Linguagens Mais Usadas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balchaki&layout=compact&theme=dracula" alt="Linguagens mais usadas pelo Balchaki" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balchaki&layout=compact&theme=radical" alt="Linguagens mais usadas pelo Balchaki" />
 </p>
 
 <p align="center">
