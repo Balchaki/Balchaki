@@ -9,7 +9,7 @@
 
 ## 🚀 **Linguagens Mais Usadas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balchaki&layout=compact&theme=radical" alt="Linguagens mais usadas pelo Balchaki" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balchaki&layout=compact&theme=tokyonight" alt="Linguagens mais usadas pelo Balchaki" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 ## 📌 **Projetos em Destaque**
 <p align="center">
     <a href="https://github.com/Balchaki/meetspace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=meetspace&theme=radical" alt="MeetSpace" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=meetspace&theme=tokyonight" alt="MeetSpace" />
   </a><br>
   <a href="https://github.com/Balchaki/MyPub-Landpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=MyPub-Landpage&theme=radical" alt="MyPub Landpage" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=MyPub-Landpage&tokyonight=radical" alt="MyPub Landpage" />
   </a>
 </p>
 
