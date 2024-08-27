@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=meetspace&theme=tokyonight" alt="MeetSpace" />
   </a><br>
   <a href="https://github.com/Balchaki/MyPub-Landpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=MyPub-Landpage&tokyonight=radical" alt="MyPub Landpage" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balchaki&repo=MyPub-Landpage&theme=tokyonight" alt="MyPub Landpage" />
   </a>
 </p>
 
