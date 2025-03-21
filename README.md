@@ -29,6 +29,6 @@
 
 ## 🌐 **Vamos Conectar?**
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-balchaki-56898b196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/balchaki/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Balchaki"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
